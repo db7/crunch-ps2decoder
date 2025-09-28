@@ -1,0 +1,6 @@
+libvsync-*
+include/*
+usb_serial
+*.zip
+*.tar.gz
+.pc
